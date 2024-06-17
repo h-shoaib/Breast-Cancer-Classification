@@ -1,2 +1,2 @@
-# Breast-Cancer-Prediction
-Gradio app for breast cancer detection in patients, using machine learning models.
+# Breast-Cancer-Classification
+Gradio app for classifying breast tumours as benign or malignant in patients, using machine learning models.
